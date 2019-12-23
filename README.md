@@ -27,3 +27,6 @@ KClichen, 1412445370@qq.com
 ## License
 
 PartTest is available under the MIT license. See the LICENSE file for more info.
+
+组件化测试仓库
+
