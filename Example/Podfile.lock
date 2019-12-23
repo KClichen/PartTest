@@ -1,0 +1,16 @@
+PODS:
+  - PartTest (0.1.0)
+
+DEPENDENCIES:
+  - PartTest (from `../`)
+
+EXTERNAL SOURCES:
+  PartTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PartTest: acb23569ed4ef29e9a99eeece6631c858cb2e592
+
+PODFILE CHECKSUM: e4829a7de1a8ded9f31e16a8a3b0ae3632910fa0
+
+COCOAPODS: 1.8.4

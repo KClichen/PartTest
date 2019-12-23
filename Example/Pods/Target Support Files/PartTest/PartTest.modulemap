@@ -1,0 +1,6 @@
+framework module PartTest {
+  umbrella header "PartTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

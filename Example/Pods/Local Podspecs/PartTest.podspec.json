@@ -1,0 +1,22 @@
+{
+  "name": "PartTest",
+  "version": "0.1.0",
+  "summary": "A short description of PartTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/KClichen/PartTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KClichen": "1412445370@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/KClichen/PartTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PartTest/Classes/**/*"
+}
